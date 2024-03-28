@@ -1,7 +1,7 @@
 <h1>Numerous shorter yet important hands on experience</h1>
 
 
-<h2>Description</h2>Throughout the Google Cybersecurity Professional Certification and class there were multiple opportunities to get hands on work with interactive labs to put the theory I learned in practice. The images below and thier brief details details some of the most notable experience I got from the course/certification.
+<h2>Description</h2>Throughout the Google Cybersecurity Professional Certification class there were multiple opportunities to get hands on work with interactive labs to put the theory I learned in practice. The images below briefly touch on some of the labs and experience I got from the course/certification.
 <br />
 
 
@@ -40,13 +40,10 @@ Created a alert ticket from a suspected phishing incident based on a playbook.<b
 Likely phishing email<br />
 <img src="https://github.com/KirkDJohnson/Google-Cybersecurity-Labs/assets/164972007/339c869b-eec8-457d-9ce8-3d3265408b13"  alt="Disk Sanitization Steps"/>
 <br />
-Sanitization complete:  <br/>
-<img src=""  alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<h2>Thoughts</h2>
+This was the first course/certification I took in cybersecurity. I took it not really sure what cybersecurity really was; only that it sounded interesting and after taking this coursera course I was all in and moved straight into the Cisco course. Similarly to the cisco course because at the time I did not really think about saving my work for a future portfolio and instead was invested in learning as much of I possible, many of the labs I was not able to capture. Particualy the course on Python which I really enjoyed. However, the above labs demonstrate some of the hands on expirence I obtained through completing the Google Cybersecurity Certification.
 
 <!--
  ```diff
