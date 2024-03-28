@@ -1,4 +1,4 @@
-<h1>Numerous shorter yet important hands on experience</h1>
+<h1>Numerous short yet important hands on labs</h1>
 
 
 <h2>Description</h2>Throughout the Google Cybersecurity Professional Certification class there were multiple opportunities to get hands on work with interactive labs to put the theory I learned in practice. The images below briefly touch on some of the labs and experience I got from the course/certification.
